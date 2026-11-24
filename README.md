@@ -1,6 +1,8 @@
 # SAGE & SHEARS — Queue Management System
 
 A responsive salon queue demo with guest, barber, manager, display, and feedback views.
+## Live Demo
+[https://sage-shears.vercel.app/](url)
 
 ## Run locally
 
