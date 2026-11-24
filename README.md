@@ -2,7 +2,7 @@
 
 A responsive salon queue demo with guest, barber, manager, display, and feedback views.
 ## Live Demo
-[https://sage-shears.vercel.app/](url)
+[Open the deployed app](https://sage-shears.vercel.app)
 
 ## Run locally
 
